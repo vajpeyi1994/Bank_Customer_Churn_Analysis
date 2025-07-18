@@ -12,7 +12,6 @@ This project analyzes customer churn behavior for a fictional bank using histori
 
 - Jupyter notebooks for analysis and modeling
 - README.md -> Project overview
-- Jupyter notebooks for analysis and modeling
 - requirements.txt -> Project dependencies
 - Dataset
 
