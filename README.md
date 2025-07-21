@@ -26,7 +26,7 @@ This project analyzes customer churn behavior for a fictional bank using histori
   - Bank-related behavior (Balance, CreditScore, Tenure, EstimatedIncome)
   - Churn status (Exited = 1, Remained = 0)
 
-## 🔍 Exploratory Data Analysis (EDA)
+## 🔍 SUMMARY
 
 Initial analysis was  performed to identify:
 - Demographic trends (Gender Churn rates)
@@ -48,6 +48,9 @@ A classification model was trained using:
 
 **Best performance:** `Logistic Regression with predictor varibales - EstimatedSalary','CreditScore','Age','Tenure','Balance'.
 (Accuracy: 70%, with 80% true positives for No-Churn and 64% for Churn)`
+
+ 
+
 
 ---
 
